@@ -1,9 +1,6 @@
 ### <div align="center">Hi! My name is Rutger Pronk, and I am studying Software Development in the Netherlands. 🚀</div>  
   
 
-- 🔭 I’m currently working on my [Portfolio](https://rutgerpronk.com)  
-  
-
 - 🌱 I’m currently learning Laravel, C#  
   
 
