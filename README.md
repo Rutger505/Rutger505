@@ -1,4 +1,4 @@
-### <div align="center">Hi! My name is Rutger Pronk, and I am studying Software Development in the Netherlands. 🚀</div>  
+# <div align="center">Hi! My name is Rutger Pronk, and I am studying Software Development in the Netherlands. 🚀</div>  
 
 <br/>
 
