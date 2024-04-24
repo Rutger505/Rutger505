@@ -2,7 +2,7 @@
 
 <br/>
 
-- 🌱 I’m currently learning Laravel, C#, WPF
+- 🌱 I’m currently learning Next.js, Laravel, C# and WPF
   
 
 - 🗣 I speak Dutch and English  
