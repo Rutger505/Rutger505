@@ -3,7 +3,7 @@
 - 🚀 Visit my portfolio at [rutgerpronk.com](https://rutgerpronk.com)
 
 
-- 🌱 I’m currently learning Next.js, C# and WPF
+- 🌱 I’m currently learning Next.js, Machine Learning with Pytorch
 
 
 - 🗣 Dutch and English
