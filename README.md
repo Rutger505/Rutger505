@@ -1,4 +1,4 @@
-<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/669f4672-0389-44ce-ab3b-bc52b9a33fd4" /><img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/aadd1bc2-fd46-459f-8e4f-b76c5b0c9d57" /><img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/4f1684d9-e82e-455d-a8dd-1c537ed45d1d" /># <div align="center">Hi! My name is Rutger Pronk, and I am studying Software Development in the Netherlands. 🚀</div>
+# <div align="center">Hi! My name is Rutger Pronk, and I am studying Software Development in the Netherlands. 🚀</div>
 
 - 🚀 Visit my portfolio at [rutgerpronk.com](https://rutgerpronk.com)
 
