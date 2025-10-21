@@ -1,4 +1,4 @@
-# <div align="center">Hi! My name is Rutger Pronk, and I am studying Software Development in the Netherlands. 🚀</div>
+<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/669f4672-0389-44ce-ab3b-bc52b9a33fd4" /><img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/aadd1bc2-fd46-459f-8e4f-b76c5b0c9d57" /><img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/4f1684d9-e82e-455d-a8dd-1c537ed45d1d" /># <div align="center">Hi! My name is Rutger Pronk, and I am studying Software Development in the Netherlands. 🚀</div>
 
 - 🚀 Visit my portfolio at [rutgerpronk.com](https://rutgerpronk.com)
 
@@ -36,10 +36,12 @@
     <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
     <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
     <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
+    <a href="https://orm.drizzle.team" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/9bdff61b-de57-43b1-a144-8a03a7da0400" alt="Drizzle ORM" height="50" /></a>  
     <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
     <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
     <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
     <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+    <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2" alt="MySQL" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="25%">
