@@ -74,3 +74,6 @@
 
 </td></tr></table>  
 
+
+Take a look at my [organization](https://github.com/Rutger505-Org/)! I have a bunch of other reposoitories there to be able to share variables and secrets.
+
