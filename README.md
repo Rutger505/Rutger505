@@ -1,9 +1,6 @@
-# <div align="center">Hi! My name is Rutger Pronk, and I am studying Software Development in the Netherlands. 🚀</div>
+# <div align="center">Hi! My name is Rutger Pronk, studying Software Development in the Netherlands 🚀</div>
 
 - 🚀 Visit my portfolio at [rutgerpronk.com](https://rutgerpronk.com)
-
-
-- 🌱 I’m currently learning Next.js, Machine Learning with Pytorch
 
 
 - 🗣 Dutch and English
