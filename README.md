@@ -30,7 +30,7 @@ const rutger = {
   infra: ["Kubernetes (K3s)", "Docker", "OpenTofu", "Proxmox", "GitHub Actions"],
   embedded: ["Rust", "ESP32", "nRF52840", "C++"],
   dailyDriver: "Arch Linux + Hyprland + Neovim",
-  currentlyHacking: ["self-hosted homelab", "Rust firmware", "a desktop goose for Wayland 🪿"],
+  currentlyHacking: ["self-hosted homelab", "Rust firmware"],
 } as const;
 ```
 
@@ -49,16 +49,16 @@ const rutger = {
 <div align="center">
 
 <p>
-  <a href="https://github.com/Rutger505-Org/kubernetes-infrastructure"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rutger505-Org&repo=kubernetes-infrastructure&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" alt="kubernetes-infrastructure" /></a>
   <a href="https://github.com/Rutger505-Org/homelab-infrastructure"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rutger505-Org&repo=homelab-infrastructure&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" alt="homelab-infrastructure" /></a>
+  <a href="https://github.com/Rutger505-Org/kubernetes-infrastructure"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rutger505-Org&repo=kubernetes-infrastructure&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" alt="kubernetes-infrastructure" /></a>
 </p>
 <p>
   <a href="https://github.com/Rutger505-Org/nextjs-template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rutger505-Org&repo=nextjs-template&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" alt="nextjs-template" /></a>
   <a href="https://github.com/Rutger505-Org/rutgerpronk.com"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rutger505-Org&repo=rutgerpronk.com&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" alt="rutgerpronk.com" /></a>
 </p>
 <p>
-  <a href="https://github.com/Rutger505-Org/relay"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rutger505-Org&repo=relay&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" alt="relay" /></a>
   <a href="https://github.com/Rutger505-Org/dijker-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rutger505-Org&repo=dijker-website&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" alt="dijker-website" /></a>
+  
 </p>
 
 <a href="https://github.com/Rutger505-Org"><img src="https://img.shields.io/badge/Explore_the_org-%E2%86%92-bb9af7?style=for-the-badge&logo=github&logoColor=white" alt="Explore the org" /></a>
@@ -72,16 +72,16 @@ const rutger = {
 <div align="center">
 
 <p>
-  <a href="https://github.com/Rutger505/roose"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rutger505&repo=roose&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" alt="roose" /></a>
   <a href="https://github.com/Rutger505/motorized-blinds"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rutger505&repo=motorized-blinds&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" alt="motorized-blinds" /></a>
-</p>
-<p>
   <a href="https://github.com/Rutger505/real-life-soundboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rutger505&repo=real-life-soundboard&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" alt="real-life-soundboard" /></a>
-  <a href="https://github.com/Rutger505/smart-home-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rutger505&repo=smart-home-dashboard&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" alt="smart-home-dashboard" /></a>
 </p>
 <p>
-  <a href="https://github.com/Rutger505/tmux-smooth-scroll"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rutger505&repo=tmux-smooth-scroll&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" alt="tmux-smooth-scroll" /></a>
+  <a href="https://github.com/Rutger505/smart-home-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rutger505&repo=smart-home-dashboard&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" alt="smart-home-dashboard" /></a>
+  <a href="https://github.com/Rutger505/Useful-Autoclicker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rutger505&repo=Useful-Autoclicker&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" alt="Useful-Autoclicker" /></a>
+</p>
+<p>
   <a href="https://github.com/Rutger505/dev-env"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rutger505&repo=dev-env&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" alt="dev-env" /></a>
+  
 </p>
 
 </div>
