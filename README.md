@@ -48,41 +48,7 @@ const rutger = {
 
 <div align="center">
 
-<p>
-  <a href="https://github.com/Rutger505-Org/homelab-infrastructure"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rutger505-Org&repo=homelab-infrastructure&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" alt="homelab-infrastructure" /></a>
-  <a href="https://github.com/Rutger505-Org/kubernetes-infrastructure"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rutger505-Org&repo=kubernetes-infrastructure&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" alt="kubernetes-infrastructure" /></a>
-</p>
-<p>
-  <a href="https://github.com/Rutger505-Org/nextjs-template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rutger505-Org&repo=nextjs-template&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" alt="nextjs-template" /></a>
-  <a href="https://github.com/Rutger505-Org/rutgerpronk.com"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rutger505-Org&repo=rutgerpronk.com&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" alt="rutgerpronk.com" /></a>
-</p>
-<p>
-  <a href="https://github.com/Rutger505-Org/dijker-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rutger505-Org&repo=dijker-website&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" alt="dijker-website" /></a>
-  
-</p>
-
 <a href="https://github.com/Rutger505-Org"><img src="https://img.shields.io/badge/Explore_the_org-%E2%86%92-bb9af7?style=for-the-badge&logo=github&logoColor=white" alt="Explore the org" /></a>
-
-</div>
-
----
-
-### 🛠️ Personal projects
-
-<div align="center">
-
-<p>
-  <a href="https://github.com/Rutger505/motorized-blinds"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rutger505&repo=motorized-blinds&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" alt="motorized-blinds" /></a>
-  <a href="https://github.com/Rutger505/real-life-soundboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rutger505&repo=real-life-soundboard&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" alt="real-life-soundboard" /></a>
-</p>
-<p>
-  <a href="https://github.com/Rutger505/smart-home-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rutger505&repo=smart-home-dashboard&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" alt="smart-home-dashboard" /></a>
-  <a href="https://github.com/Rutger505/Useful-Autoclicker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rutger505&repo=Useful-Autoclicker&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" alt="Useful-Autoclicker" /></a>
-</p>
-<p>
-  <a href="https://github.com/Rutger505/dev-env"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rutger505&repo=dev-env&theme=tokyonight&hide_border=true&border_radius=10&description_lines_count=2" alt="dev-env" /></a>
-  
-</p>
 
 </div>
 
@@ -124,18 +90,6 @@ const rutger = {
   <br />
   <img src="https://streak-stats.demolab.com?user=Rutger505&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" />
 </div>
-
----
-
-### 🐍 Contribution snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rutger505/Rutger505/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rutger505/Rutger505/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Rutger505/Rutger505/output/github-snake-dark.svg" />
-  </picture>
-</p>
 
 <!-- Footer -->
 <p align="center">
