@@ -94,7 +94,7 @@ const rutger = {
 <summary><b>🌐 Web</b></summary>
 <br />
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,bun,nestjs,prisma,php,laravel,postgres,mysql,jest&theme=dark" alt="Web stack" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,bun,nestjs,prisma,postgres,jest&theme=dark" alt="Web stack" /></a>
 </p>
 </details>
 
@@ -110,7 +110,7 @@ const rutger = {
 <summary><b>🦀 Software & embedded</b></summary>
 <br />
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rust,kotlin,java,cs,dotnet,py,cpp,c,lua,arduino&theme=dark" alt="Software stack" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rust,java,cs,dotnet,py,cpp,c&theme=dark" alt="Software stack" /></a>
 </p>
 </details>
 
